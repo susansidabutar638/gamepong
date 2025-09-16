@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pingpong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|D:\\pingpong\\assets\\ballcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|solutionrelative:assets\\ballcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|d:\\pingpong\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|D:\\pingpong\\assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|solutionrelative:assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|D:\\pingpong\\assets\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|D:\\pingpong\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|D:\\pingpong\\assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D83E4-0113-6930-B2C8-90024A367A55}|Assembly-CSharp.csproj|solutionrelative:assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\pingpong\\Assets\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOver.cs",
+              "ToolTip": "D:\\pingpong\\Assets\\GameOver.cs",
+              "RelativeToolTip": "Assets\\GameOver.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:15:06.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\pingpong\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "D:\\pingpong\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T02:17:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gamemenu.cs",
+              "DocumentMoniker": "D:\\pingpong\\Assets\\Gamemenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Gamemenu.cs",
+              "ToolTip": "D:\\pingpong\\Assets\\Gamemenu.cs",
+              "RelativeToolTip": "Assets\\Gamemenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T02:11:53.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "D:\\pingpong\\Assets\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Goal.cs",
+              "ToolTip": "D:\\pingpong\\Assets\\Goal.cs",
+              "RelativeToolTip": "Assets\\Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T00:16:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallControler.cs",
+              "DocumentMoniker": "D:\\pingpong\\Assets\\BallControler.cs",
+              "RelativeDocumentMoniker": "Assets\\BallControler.cs",
+              "ToolTip": "D:\\pingpong\\Assets\\BallControler.cs",
+              "RelativeToolTip": "Assets\\BallControler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:23:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\pingpong\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\pingpong\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:58:44.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

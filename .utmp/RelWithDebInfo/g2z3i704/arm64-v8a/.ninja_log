@@ -1,0 +1,23 @@
+# ninja log v5
+21	7199	7796518379580902	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	550c60683ed08dd2
+162	1177	7796518318820747	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	5e41f33861c1ddf3
+53	6477	7796518372159209	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	832880f791d8d5da
+1179	1505	7796518322678631	D:/pingpong/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g2z3i704/obj/arm64-v8a/libswappywrapper.so	dd59c3223e1a9a4a
+71	6020	7796518367362875	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a5a28eca6b04c5da
+36	6596	7796518373372454	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6b3073d58781cb8d
+142	6269	7796518369264047	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b825d67a0b6ff919
+108	6448	7796518371773550	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4114298228bfc27b
+3	6289	7796518369844356	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	513b44b993ac1bf8
+91	6900	7796518376225835	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	45da6206b2e7b84f
+7200	7369	7796518381383818	D:/pingpong/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g2z3i704/obj/arm64-v8a/libgame.so	52ca0767b96371bd
+123	501	7796595108788186	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	5e41f33861c1ddf3
+502	829	7796595112154908	D:/pingpong/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g2z3i704/obj/arm64-v8a/libswappywrapper.so	dd59c3223e1a9a4a
+40	1765	7796595121305891	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	832880f791d8d5da
+77	1817	7796595121904092	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a5a28eca6b04c5da
+27	1819	7796595121914164	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	513b44b993ac1bf8
+91	1890	7796595122627465	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b825d67a0b6ff919
+104	1965	7796595123482096	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4114298228bfc27b
+52	2051	7796595124405284	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6b3073d58781cb8d
+66	2277	7796595126652024	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	45da6206b2e7b84f
+14	2445	7796595128296410	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	550c60683ed08dd2
+2445	2635	7796595130286284	D:/pingpong/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g2z3i704/obj/arm64-v8a/libgame.so	52ca0767b96371bd
